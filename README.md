@@ -14,9 +14,10 @@ https://github.com/typekit/webfontloader
 
 
   -----------------------------------
+  
   <script type="text/javascript">
     WebFont.load({
       google: {
-        families: ['Roboto:300']
+        families: ['Roboto']
       }});
   </script>
