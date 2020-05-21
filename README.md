@@ -4,6 +4,7 @@ https://github.com/typekit/webfontloader
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js">  </script>
   
+  
   -----------------------------------
   <script type="text/javascript">
     WebFont.load({
@@ -12,8 +13,8 @@ https://github.com/typekit/webfontloader
       }});
   </script>
 
-
   -----------------------------------
+  
   
   <script type="text/javascript">
     WebFont.load({
